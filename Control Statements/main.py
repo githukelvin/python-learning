@@ -7,12 +7,16 @@ bill = 0
 if height >=  120:
     print("You can ride the rollcoaster")
     if age > 18:
-        bill =12;
-        print(f"Your Adult is ${bill} ")
-    elif  18 < age >12:
+        if 45 < age or age > 55:
+            print("You can ride for free")
+            exit()
+        else:
+            bill =12;
+            print(f"Your Adult is ${bill} ")
+    elif age < 18:
         bill = 7
         print(f"Your Youth is ${bill}")
-    else:
+    elif age < 12:
         bill = 5
         print(f"Your Child is ${bill}")
         
