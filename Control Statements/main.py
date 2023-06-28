@@ -1,17 +1,28 @@
 print("Welcome to the rollcoaster")
 height = int(input("What is height : "))
 age =int(input("What is your age : "))
+bill = 0
 # control statement
 
 if height >=  120:
     print("You can ride the rollcoaster")
     if age > 18:
-        print("Your ticket is $12")
+        bill =12;
+        print(f"Your Adult is ${bill} ")
     elif  18 < age >12:
-        print("Your Ticket is $7")
-        
+        bill = 7
+        print(f"Your Youth is ${bill}")
     else:
-        print("Your ticket is $7")
+        bill = 5
+        print(f"Your Child is ${bill}")
+        
+    wantPhotos=str(input("Do you want pictures ? Yes or No :"))
+    if wantPhotos == 'yes':
+        print(f"Your photos is $3 .Total bill to pay is ${bill +3 }" )
+    else:
+        print("Thank you for coming")
+    
+    
 else:
     print("Sorry, you have to grow taller before you can ride")
 
