@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b867c956-03ab-43db-b9e4-ba935bd6d4a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Python_learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/files/fizzbuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/files/passwordgenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/files/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops/files/test2.y.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Randomisation&amp;lists/.idea/Randomisation&amp;lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Randomisation&amp;lists/files/codingTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Randomisation&amp;lists/files/headortails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Randomisation&amp;lists/files/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Randomisation&amp;lists/files/my_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Randomisation&amp;lists/files/rock_paper_scissor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Randomisation&amp;lists/files/whoispaying.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Control Statements/Pizza.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Statements/Pizza.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Control Statements/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Statements/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Control Statements/leapYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Statements/leapYear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Control Statements/loveCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Statements/loveCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Control Statements/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Statements/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Control Statements/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Statements/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Control Statements/treasure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Statements/treasure.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2SsverWfmBiUHZ3i7FQl3pHmyuf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b867c956-03ab-43db-b9e4-ba935bd6d4a3" name="Changes" comment="" />
+      <created>1689948201356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689948201356</updated>
+      <workItem from="1689948204247" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
