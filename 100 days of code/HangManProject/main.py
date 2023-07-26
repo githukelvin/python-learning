@@ -10,27 +10,17 @@ random_choice = random.choice(word_list)
 
 print(random_choice)
 
-arr = []
-
-
 # TODO-2 - Ask the user to guess a letter and assign their answer to a variable called guess. Make guess lowercase.
-def check(r_choice, arrs):
-    enter_letter = str(input("Guess A letter in the ")).lower()
-    find_letters = [i for i in range(len(r_choice)) if r_choice[i] == enter_letter]
-    size = len(find_letters)
-    if size > 0:
-        print("Letter was found")
-        arrs += find_letters
-        for i in find_letters:
-            print(r_choice[i])
-
-
-ii = 0
-size2 = len(random_choice)
-
-while ii < size2:
-    check(random_choice, arr)
-    ii += 1
-
-print(arr)
+enter_letter = str(input("Guess A letter in the ")).lower()
+display_array =[]
+arr=[]
 # TODO-3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word.
+for i in range(len(random_choice)):
+    display_array.append("_")
+
+for letter in random_choice:
+    if enter_letter == letter:
+       arr.append(letter)
+    else:
+        print('wrong')
+print(arr)
