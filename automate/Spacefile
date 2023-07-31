@@ -1,0 +1,12 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: automate
+    src: ./
+    engine: python3.9
+    primary: true
+    presets:
+      env:
+        [name: kelvingithu019@gmail.com,
+        name: sromfuecnkdqgdtr
+        ]
